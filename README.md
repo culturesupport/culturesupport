@@ -237,6 +237,26 @@
 
 
 
+<p align="center">
+  <a>
+    <img src="https://i.pinimg.com/originals/ee/ef/84/eeef84a778dc5c156d9374f56b785dd9.gif">
+  </a>
+</p>
+
+
+
+<p align="center">
+  <a>
+    <img src="https://cdn.dribbble.com/users/205136/screenshots/2582152/ae-fun.gif">
+  </a>
+</p>
+
+<p align="center">
+  <a>
+    <img src="https://www.bdigital.co.nz/wp-content/uploads/2019/04/Be-AI1.gif">
+  </a>
+</p>
+
 
 
 
