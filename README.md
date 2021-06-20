@@ -184,6 +184,12 @@
 </p>
 
 
+<p align="center">
+  <a>
+    <img src="https://d6f6d0kpz0gyr.cloudfront.net/uploads/images-archive/Blog/Gifs/coding.gif?mtime=20200914144127&focal=none">
+  </a>
+</p>
+
 
 
 
