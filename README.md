@@ -211,7 +211,7 @@
 
 <p align="center">
   <a>
-    <img src="https://i.gifer.com/78KI.mp4">
+    <img src="https://i.gifer.com/78KI.gif">
   </a>
 </p>
 
