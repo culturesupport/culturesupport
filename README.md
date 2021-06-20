@@ -217,7 +217,7 @@
 
 <p align="center">
   <a>
-    <img src="https://cdn.dribbble.com/users/281525/screenshots/1768570/jmanalus.gif">
+    <img src="https://www.flinto.com/assets/mac/live-view_2x-51791f840c64ce9ccf1db0c349d8ac96059f6a53a71266a15608e05e87c1bf98.gif">
   </a>
 </p>
 
