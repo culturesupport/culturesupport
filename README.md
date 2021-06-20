@@ -60,7 +60,7 @@
 <h4> Speed Up Shortcut Build To Button Page Build Automations : Next Era Fast Installation Procedure  </h4>
 
 
-<h4> Computer System Web Intergration Shortcuts : Speed Build Home Computer interactions on Web Pages  </h4>
+<h2> Computer System Web Intergration Shortcuts : Speed Build Home Computer interactions on Web Pages  </h2>
 <p align="center">
   <a>
     <img src="https://buffer.com/library/content/images/library/wp-content/uploads/2017/06/keyboard-shortcuts.gif">
