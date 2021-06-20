@@ -97,7 +97,7 @@
 
 <p align="center">
   <a>
-    <img src="https://i.pinimg.com/originals/9f/18/e1/9f18e194e4ffd9319cde072400f8c73d.gif">
+    <img src="https://i.pinimg.com/originals/39/5b/71/395b7174484c098c79269d1c2985d7a1.gif">
   </a>
 </p>
 
