@@ -134,6 +134,7 @@
   </a>
 </p>
 
+
 <p align="center">
   <a>
     <img src="https://steamuserimages-a.akamaihd.net/ugc/832451442665257108/7A32049F40D242BFC6E8AC66D08D9246B498AD0E/">
@@ -141,4 +142,4 @@
 </p>
 
 
-
+ All By A Philosophic Revolution
