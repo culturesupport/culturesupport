@@ -108,3 +108,13 @@
   </a>
 </p>
 
+
+
+<p align="center">
+  <a>
+    <img src="https://media.entale.co/episodes/a6cf78e8-b688-4891-aefb-4561672c6a55/images/naOtw4vHR2amHwUFYulf_Podcast%20gif.gif">
+  </a>
+</p>
+
+
+
