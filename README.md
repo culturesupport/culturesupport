@@ -2,7 +2,11 @@
 <p align="center">
   <h1>
     Culture.Support 
+     </br>
     Official Profile Repository
+    </br>
+  <li> Representing Stable Income & More </li>
+    </br>
   </h1>
 </p>
 
