@@ -90,7 +90,7 @@
 
 
 
-<h3> It Can Build In Super Extreme Tempo , So Fast its Like Listen On Rock & Roll & Articial SuperPowerScaling A Business in 5 Minutes </h3>
+<h3> It Can Build In Super Extreme Tempo , So Fast its Like Listen On Rock & Roll & Artificial SuperPowerScaling A Business in 5 Minutes </h3>
 
 <h3> Just Like We Empowers Universe Gods Without Time Limits   </h3>
 
