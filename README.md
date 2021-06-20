@@ -162,5 +162,21 @@
 </p>
 
 
+<p align="center">
+  <a>
+    <img src="https://i.pinimg.com/originals/08/29/eb/0829eba9ce9b8d032a514405d78b3c6a.gif">
+  </a>
+</p>
+
+
+
+<p align="center">
+  <a>
+    <img src="https://i.gifer.com/QZBr.gif">
+  </a>
+</p>
+
+
+
 
  All By A Philosophic Revolution
