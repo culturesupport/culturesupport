@@ -84,4 +84,20 @@
 
 
 
+<h4> The Next Way Roadmap : Artificial Intelligence Shortcut Revolution Automation </h4>
+
+
+
+
+
+<h3> It Can Build In Super Extreme Tempo , So Fast its Like Listen On Rock & Roll & Articial SuperPowerScaling A Business in 5 Minutes </h3>
+
+<h3> Just Like We Empowers Universe Goods Without Time Limits   </h3>
+
+
+<p align="center">
+  <a>
+    <img src="https://i.pinimg.com/originals/9f/18/e1/9f18e194e4ffd9319cde072400f8c73d.gif">
+  </a>
+</p>
 
