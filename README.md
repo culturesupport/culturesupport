@@ -261,7 +261,7 @@
 
 <p align="center">
   <a>
-    <img src="https://lh3.googleusercontent.com/proxy/uYHLmwdoFTT1qXEMgRjXCbSEhZ3XIOctCwlNd_o8HlHJZUfu1M1GjHyIqUQxqXgJoIESdXAuBAULRXcBwPSLhb8zWcQGTRrYqFLecLNq8FzNRdGB1LD3cD9d2jT5QApaybQ">
+    <img src="https://www.michaelpage.co.th/sites/michaelpage.co.th/files/future_of_tech_bloggif.gif">
   </a>
 </p>
 
@@ -276,7 +276,7 @@
 
 <p align="center">
   <a>
-    <img src="https://cdn.shortpixel.ai/client/q_glossy,ret_img,w_455,h_455/https://agilehorde.com/wp-content/uploads/2020/03/impactful-digital-marketing.gif">
+    <img src="https://lh3.googleusercontent.com/proxy/BM_hMNCCCPDFFzNM2VOHnQ8iiEfsGYteetDOxR013gzBavs_g1NywlY1U93SF3Z1sf0xapL5oxL9dpWz9wMLwgEsGPabo7xSOAPQA44SY21XNgMyCA">
   </a>
 </p>
 
