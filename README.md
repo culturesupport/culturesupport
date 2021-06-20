@@ -59,6 +59,15 @@
 
 <h4> Speed Up Shortcut Build To Button Page Build Automations : Next Era Fast Installation Procedure  </h4>
 
+
+<h4> Computer System Web Intergration Shortcuts : Speed Build Home Computer interactions on Web Pages  </h4>
+<p align="center">
+  <a>
+    <img src="https://buffer.com/library/content/images/library/wp-content/uploads/2017/06/keyboard-shortcuts.gif">
+  </a>
+</p>
+
+
 <p align="center">
   <a>
     <img src="https://s1.pir.fm/pf/blog/articles/Ccleaner-Mac-Shortcuts-8.gif">
