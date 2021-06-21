@@ -231,7 +231,7 @@
 
 <p align="center">
   <a>
-    <img src="https://thumbs.gfycat.com/FirstEvergreenCob-size_restricted.gif">
+    <img src="https://cdn.dribbble.com/users/935115/screenshots/3513898/dribbble-kotnrola.gif">
   </a>
 </p>
 
@@ -283,7 +283,7 @@
 
 <p align="center">
   <a>
-    <img src="https://www.socialstardom.in/img/seo-search-engine-optimization1.gif">
+    <img src="https://i.pinimg.com/originals/a5/be/c4/a5bec4b46df0ba710b8cd78d5fb3a3fd.gif">
   </a>
 </p>
 
