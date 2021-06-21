@@ -43,11 +43,6 @@
 
 
 
-<p align="center">
-  <a>
-    <img src="https://miro.medium.com/max/800/0*CojAnRXm_qhVOcIw.">
-  </a>
-</p>
 
 <h1> Culture.Support </h1>
   
@@ -100,7 +95,7 @@
  
 <p align="center">
   <h1>
-    Question : ARE Somebody Big Looser ? Answer : YES !
+    Question : ARE Somebody Big Looser ? Answer :  !
   </h1>
 </p>
 
