@@ -3,9 +3,14 @@
   
   <h1>   <li>  Culture.Support  </li>   </h1>
  
-   <h3>    <li>  Official Profile Repository </li> </h3>
-   <h3>  <li> Representing Stable Income & More </li> </h3>
-    </br
+   <h2>    <li>  Official Profile Repository </li> </h2>
+   <h3>  <li> Info Repository </li> </h3>
+   </br>
+    <h5>  <li> Some Fast Build Method Instructions  </li> </h5>
+     <h5>  <li> Some Web App Info </li> </h5>
+       <h5>  <li> Some Android App Build Methods  </li> </h5>
+         <h5>  <li> Some Stars Repository  </li> </h5>
+  
 </p>
 
 <p align="center">
