@@ -77,24 +77,19 @@
 
 
 
-<h4> The Next Way Roadmap : Artificial Intelligence Shortcut Revolution Automation </h4>
-
-
-
-
-
-<h3> It Can Build In Super Extreme Tempo , So Fast its Like Listen On Rock & Roll & Artificial SuperPowerScaling A Business in 5 Minutes </h3>
-
-<h3> Just Like We Empowers Universe Gods Without Time Limits Beliefs  </h3>
-
-
-
-
-
+<p align="center">
+  
+  <li>  <h4> The Next Way Roadmap : Artificial Intelligence Shortcut Revolution Automation </h4> </li>   
+ 
+ <li> <h3> It Can Build In Super Extreme Tempo , So Fast its Like Listen On Rock & Roll & Artificial SuperPowerScaling A Business in 5 Minutes </h3></li>
+ <li> <h3> Just Like We Empowers Universe Gods Without Time Limits Beliefs  </h3>
+ </li> 
+    </br
+</p>
 
 
 
 
 <p align="center">
-  <h1> Thankfull Thanx </h1>
+  <li>  <h4> Thank Full : Thanx For My Own Relegion : Thanx For My Own Way  </h4> </li>   
 </p>
