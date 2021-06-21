@@ -1,9 +1,9 @@
 
 <p align="center">
   
-  <h1>   Culture.Support     </h1>
+  <h1> Culture.Support </h1>
   </br>
-   <h3>     Official Profile Repository  </h3>
+   <h3> Official Profile Repository </h3>
    </br>
    <h3>   Programming Languages </h3>
    </br>
@@ -17,6 +17,17 @@
                    <h5>  <li> Python </li> </h5>
            <h5> <li> Cdn Library Language </li> </h5>
      </br>
+
+
+<h3>   Why Shortcuts ? </h3>
+<h5>  <li> its The Art of Quantum Nature </li> </h5>
+<h5>  <li> its Natures Quantum Pattern</li> </h5>
+<h5>  <li> its Nature Envolving Mechanism </li> </h5>
+<h5>  <li> its Nature Quantum Mechanics Law </li> </h5>
+<h5>  <li> its Building Pattern Quantum Physics </li> </h5>
+<h5>  <li> its The Way To Quantum Building </li> </h5>
+</br>
+
                     <h3>   Css Code :  </h3>
                    <h5>  <li> Css </li> </h5>
                    <h5>  <li> Scss </li> </h5>
@@ -57,6 +68,8 @@
 <h5>  <li> integrity Bether om devices </li> </h5>
 <h5>  <li> Stabliced App & Web App </li> </h5>
 </br>
+
+
 <h5>  <li> Earning Repository Status </li> </h5>
 
 <p align="center">
