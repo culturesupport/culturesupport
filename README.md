@@ -7,6 +7,7 @@
    <h3>  <li> Info Repository :</li> </h3>
    </br>
     <h5>  <li> Some Fast Build Method Instructions  </li> </h5>
+    <h5>  <li> Some Fast Shortcut Linking 🔗 Build Faster With Keyboards Shortcuts </li> </h5>
      <h5>  <li> Some Web App Info </li> </h5>
        <h5>  <li> Some Android App Build Methods  </li> </h5>
          <h5>  <li> Some Stars Repository  </li> </h5>
