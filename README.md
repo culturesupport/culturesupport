@@ -3,9 +3,9 @@
   
   <h1>   Culture.Support     </h1>
   </br>
-   <h2>     Official Profile Repository  </h2>
+   <h5>     Official Profile Repository  </h5>
    </br>
-   <h1>  <li> Programming Languages  </li> </h1>
+   <h3>   Programming Languages </h3>
    </br>
      <h5>  <li> Hmlt 5  </li> </h5>
        <h5>  <li> Bootstrap Cdn  </li> </h5>
@@ -16,17 +16,17 @@
                  <h5>  <li> PhP  </li> </h5>
                    <h5>  <li> Python </li> </h5>
                    </br>
-                    <h1>  <li> Css Code :  </li> </h1>
+                    <h3>   Css Code :  </h3>
                    <h5>  <li> Css </li> </h5>
                    <h5>  <li> Scss </li> </h5>
                    <h5>  <li> Cdn Library </li> </h5>
                    </br>
-                    <h1>  <li> CDN :  </li> </h1>
+                    <h3>   CDN : </h3>
                     </br>
                      <h5>  <li> Cdn Tools </li> </h5>
                        <h5>  <li> Cdn Library Lists </li> </h5>
    </br>
-    <h1>   Information Generaly Inside Repository :    </h1>
+    <h1>   What Information General Inside Repository :    </h1>
       </br>
     <h5>  <li> Some Fast Build Method Instructions  </li> </h5>
     <h5>  <li> Some Fast Shortcut Linking 🔗 Build Faster With Keyboards Shortcuts </li> </h5>
