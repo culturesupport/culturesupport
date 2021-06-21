@@ -93,17 +93,30 @@
   
 <h3>  <li>  Thank Full : Thanx For My Own Relegion : Thanx For My Own Way   </li>   </h3> 
 <h3> <li>   Manny Efforts : Manny Times : Manny Skills Earned : Now Im Can Count On My Self </li> </h3>
-<h3> <li>   Special Thanx : Involved Time :  Meditation  </li> </h3>
     </br
 </p>
 
 
 <p align="center">
   <a>
-    <img src="https://i.pinimg.com/originals/d7/ba/0e/d7ba0e1356e149209cef4757c64c3cdc.gif">
+    <img src="https://insidedigital.in/wp-content/uploads/2019/12/Loop.gif">
   </a>
 </p>
 
 
+
+<p align="center">
+  <a>
+    <img src="https://nandankumar.in/wp-content/uploads/2020/09/website-development-company-in-agra.gif">
+  </a>
+</p>
+
+
+
+<p align="center">
+  <a>
+    <img src="https://ffwagency.com/sites/default/files/2019-05/ffw-illustration3_0.gif">
+  </a>
+</p>
 
 
