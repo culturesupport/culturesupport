@@ -235,3 +235,35 @@
 </p>
 
 
+<p align="center">
+  
+<h3> <li> Buid Hyper Competition </li> </h3> 
+<h3> <li> Build Autonome Psycho Competition</li> </h3>
+<h3> <li> Build Hyper Syndrome Control Effects </li> </h3>
+    </br
+</p>
+
+<p align="center">
+  
+<h3> <li> Buid Knockout Competition </li> </h3> 
+<h3> <li> Build Cyber Space Travel </li> </h3>
+<h3> <li> Build Hyper Intense Shortcuts </li> </h3>
+    </br
+</p>
+
+<p align="center">
+  
+<h3> <li> Buid Hyper Networks </li> </h3> 
+<h3> <li> Build Internet Master </li> </h3>
+<h3> <li> Build Internet Shortcuts </li> </h3>
+    </br
+</p>
+
+
+<p align="center">
+  
+<h3> <li> Build Promotions  </li> </h3> 
+<h3> <li> Build Even Time Machine </li> </h3>
+<h3> <li> Build Quantum Nature Shortcuts </li> </h3>
+    </br
+</p>
