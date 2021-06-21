@@ -4,8 +4,7 @@
   <h1>   <li>  Culture.Support  </li>   </h1>
  
    <h3>    <li>  Official Profile Repository </li> </h3>
-    </br>
-  <h3>  <li> Representing Stable Income & More </li> </h3>
+   <h3>  <li> Representing Stable Income & More </li> </h3>
     </br
 </p>
 
