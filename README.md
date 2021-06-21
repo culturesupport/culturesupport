@@ -43,7 +43,7 @@
        <h5>  <li> Some Android App Build Methods  </li> </h5>
          <h5>  <li> Some Stars Repository  </li> </h5>
   </br>
-  <h5>  <li> Earning Repository Status </li> </h5>
+  
 </p>
 
 <h3>   Why Cdn ?  </h3>
@@ -52,6 +52,8 @@
 <h5>  <li> makes faster Page load </li> </h5>
 <h5>  <li> integrity Bether om devices </li> </h5>
 <h5>  <li> Stabliced App & Web App </li> </h5>
+</br>
+<h5>  <li> Earning Repository Status </li> </h5>
 
 <p align="center">
   <a>
