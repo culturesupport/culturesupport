@@ -100,7 +100,7 @@
 
 <p align="center">
   <a>
-    <img src="https://cdn.dribbble.com/users/553013/screenshots/3271014/meditation-optimize.gif">
+    <img src="https://i.pinimg.com/originals/d7/ba/0e/d7ba0e1356e149209cef4757c64c3cdc.gif">
   </a>
 </p>
 
