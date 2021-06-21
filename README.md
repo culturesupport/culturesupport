@@ -27,14 +27,12 @@
 <h5>  <li> its Building Pattern Quantum Physics </li> </h5>
 <h5>  <li> its The Way To Quantum Building </li> </h5>
 </br>
-
-                    <h3>   Css Code :  </h3>
+                   <h3>   Css Code :  </h3>
                    <h5>  <li> Css </li> </h5>
                    <h5>  <li> Scss </li> </h5>
                    <h5>  <li> Cdn Library Css </li> </h5>
                    <h5>  <li> Cdn Library Scss </li> </h5>                   </br>
                     <h3>   CDN : </h3>
-                    </br>
                      <h5>  <li> Cdn Tools </li> </h5>
                        <h5>  <li> Cdn Library Lists </li> </h5>
    </br>
