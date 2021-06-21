@@ -3,7 +3,7 @@
   
   <h1>   Culture.Support     </h1>
   </br>
-   <h5>     Official Profile Repository  </h5>
+   <h3>     Official Profile Repository  </h3>
    </br>
    <h3>   Programming Languages </h3>
    </br>
@@ -26,6 +26,15 @@
                      <h5>  <li> Cdn Tools </li> </h5>
                        <h5>  <li> Cdn Library Lists </li> </h5>
    </br>
+   <h3>   images : </h3>
+   <h5>  <li> .jpg  </li> </h5>
+   <h5>  <li> .png  </li> </h5>
+    </br>
+     <h3>  Videos : </h3>
+   <h5>  <li> .gif  </li> </h5>
+   <h5>  <li> .mp4 </li> </h5>
+    <h5>  <li> .MPEG </li> </h5>
+    </br>
     <h1>   What Information General Inside Repository :    </h1>
       </br>
     <h5>  <li> Some Fast Build Method Instructions  </li> </h5>
