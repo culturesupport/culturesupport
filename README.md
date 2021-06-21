@@ -15,7 +15,7 @@
                <h5>  <li> Kotlin  </li> </h5>
                  <h5>  <li> PhP  </li> </h5>
                    <h5>  <li> Python </li> </h5>
-<h5> <li> Cdn Library Language </li> </h5>
+           <h5> <li> Cdn Library Language </li> </h5>
      </br>
                     <h3>   Css Code :  </h3>
                    <h5>  <li> Css </li> </h5>
@@ -31,15 +31,13 @@
    <h5>  <li> .jpg  </li> </h5>
    <h5>  <li> .png  </li> </h5>
    <h5>  <li> image Cdn Library </li> </h5>
-
     </br>
      <h3>  Videos : </h3>
    <h5>  <li> .gif  </li> </h5>
    <h5>  <li> .mp4 </li> </h5>
     <h5>  <li> .MPEG </li> </h5>
    <h5>  <li> Video Cdn Library</li> </h5>
-
-    </br>
+  </br>
     <h1>   What Information General Inside Repository :    </h1>
       </br>
     <h5>  <li> Some Fast Build Method Instructions  </li> </h5>
