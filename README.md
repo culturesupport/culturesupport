@@ -92,34 +92,11 @@
 
 
 
- 
-<p align="center">
-  <h1>
-    Question : ARE Somebody Big Looser ? Answer :  !
-  </h1>
-</p>
-
-  
-   
- 
-   
-
-<p align="center">
-  <a>
-    <img src="https://i1.wp.com/media3.giphy.com/media/nGOZPKGbB3xpm/giphy.gif">
-  </a>
-</p>
 
 
 
 
 
 <p align="center">
-  <a>
-    <img src="https://media3.giphy.com/media/l3q2K12v7LgvwlATC/200.gif">
-  </a>
+  <h1> Thankfull Thanx </h1>
 </p>
-
-
-
- All By A Philosophic Revolution
