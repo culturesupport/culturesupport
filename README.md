@@ -200,7 +200,7 @@
 
 <p align="center">
   
-<h3> <li> Buid Server  </li> </h3> 
+<h3> <li> Build Server  </li> </h3> 
 <h3> <li> Build Even Autonome Server </li> </h3>
 <h3> <li> Build Even Design Shortcuts </li> </h3>
     </br
@@ -210,7 +210,7 @@
 
 <p align="center">
   
-<h3> <li> Buid Computer Effects </li> </h3> 
+<h3> <li> Build Computer Effects </li> </h3> 
 <h3> <li> Build industry </li> </h3>
 <h3> <li> Build Even Production Shortcuts </li> </h3>
     </br
@@ -220,7 +220,7 @@
 
 <p align="center">
   
-<h3> <li> Buid Printing  </li> </h3> 
+<h3> <li> Build Printing  </li> </h3> 
 <h3> <li> Build Time Priority Production </li> </h3>
 <h3> <li> Build Autonome Industry </li> </h3>
     </br
@@ -228,7 +228,7 @@
 
 <p align="center">
   
-<h3> <li> Buid World  </li> </h3> 
+<h3> <li> Build World  </li> </h3> 
 <h3> <li> Build Industry Revolution </li> </h3>
 <h3> <li> Build Hyper Modern Shortcut Industry</li> </h3>
     </br
@@ -237,7 +237,7 @@
 
 <p align="center">
   
-<h3> <li> Buid Hyper Competition </li> </h3> 
+<h3> <li> Build Hyper Competition </li> </h3> 
 <h3> <li> Build Autonome Psycho Competition</li> </h3>
 <h3> <li> Build Hyper Syndrome Control Effects </li> </h3>
     </br
@@ -245,7 +245,7 @@
 
 <p align="center">
   
-<h3> <li> Buid Knockout Competition </li> </h3> 
+<h3> <li> Build Knockout Competition </li> </h3> 
 <h3> <li> Build Cyber Space Travel </li> </h3>
 <h3> <li> Build Hyper Intense Shortcuts </li> </h3>
     </br
@@ -253,7 +253,7 @@
 
 <p align="center">
   
-<h3> <li> Buid Hyper Networks </li> </h3> 
+<h3> <li> Build Hyper Networks </li> </h3> 
 <h3> <li> Build Internet Master </li> </h3>
 <h3> <li> Build Internet Shortcuts </li> </h3>
     </br
