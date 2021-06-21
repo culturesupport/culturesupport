@@ -95,19 +95,6 @@
 <h3> Just Like We Empowers Universe Gods Without Time Limits Beliefs  </h3>
 
 
-<p align="center">
-  <a>
-    <img src="https://i.pinimg.com/originals/39/5b/71/395b7174484c098c79269d1c2985d7a1.gif">
-  </a>
-</p>
-
-
-<p align="center">
-  <a>
-    <img src="https://i.pinimg.com/originals/af/52/6d/af526d8cea0938ea85d648805eeb03a0.jpg">
-  </a>
-</p>
-
 
 
  
