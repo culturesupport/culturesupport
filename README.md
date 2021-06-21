@@ -1,10 +1,10 @@
 
 <p align="center">
   
-  <h1>   <li>  Culture.Support  </li>   </h1>
+  <h1>   Culture.Support     </h1>
  
-   <h2>    <li>  Official Profile Repository </li> </h2>
-   <h3>  <li> Info Repository </li> </h3>
+   <h2>     Official Profile Repository  </h2>
+   <h3>  <li> Info Repository :</li> </h3>
    </br>
     <h5>  <li> Some Fast Build Method Instructions  </li> </h5>
      <h5>  <li> Some Web App Info </li> </h5>
