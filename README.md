@@ -7,7 +7,7 @@
    </br>
    <h3>   Programming Languages </h3>
    </br>
-     <h5>  <li> Hmlt 5  </li> </h5>
+     <h5>  <li> Html 5  </li> </h5>
        <h5>  <li> Bootstrap Cdn  </li> </h5>
          <h5>  <li> Javascript  </li> </h5>
            <h5>  <li> Java </li> </h5>
