@@ -139,7 +139,7 @@
 
 <p align="center">
   <a>
-    <img src="https://ffwagency.com/sites/default/files/2019-05/ffw-illustration3_0.gif">
+    <img src="https://imperialwebdesign.in/wp-content/uploads/2019/04/responsive.gif">
   </a>
 </p>
 
