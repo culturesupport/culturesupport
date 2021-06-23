@@ -234,3 +234,67 @@ About :
 
 
 
+
+<h3> Automation : Auto ML : Automatic Machine Learning </h3>
+
+
+
+
+<h3> MQTT Api = Can Speed Up High Business Load Data </h3>
+
+
+
+<p align="center">
+  <a>
+    <img src="https://www.novotek.com/images/solutionpages/Kepware_solutionpages/IoT_Gateway_Technology.png">
+  </a>
+</p>
+
+
+<p align="center">
+  <a>
+    <img src="https://docs.solace.com/Resources/Images/REST_OverView.png">
+  </a>
+</p>
+
+
+
+
+
+<p align="center">
+  <a>
+    <img src="https://www.appliedaicourse.com/wp-content/uploads/2019/01/5.png">
+  </a>
+</p>
+
+
+
+<p align="center">
+  <a>
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4f-AH25IsaIYr30OyClvqvvaoKMnK-Yw2ow&usqp=CAU">
+  </a>
+</p>
+
+
+
+<p align="center">
+  <a>
+    <img src="https://miro.medium.com/max/3324/1*cLmdt2CQ0rzCRQ4sFJDtYA.png">
+  </a>
+</p>
+
+
+
+<h3> Desire If A Rest : Soap : AutoML : API Architecture / Combination Are The Good Backend </h3>
+
+
+
+
+
+<p align="center">
+  <a>
+    <img src="https://miro.medium.com/max/7016/1*ecBXg7uI6pr1TQU9dVBNew.jpeg">
+  </a>
+</p>
+
+
