@@ -38,8 +38,25 @@ About :
 
 <p align="center">
   <a>
-    <img src="https://www.freepik.com/free-icon/xd_14839454.htm#page=1&query=Xd&position=0">
+    <img src="https://www.freepik.com/free-vector/online-cosmetics-mobile-app-page-onboard-screen-template_15129059.htm#page=2&query=app&position=10">
   </a>
 </p>
+
+
+<p align="center">
+  <a>
+    <img src="https://www.freepik.com/free-icon/xd_14839454.htm">
+  </a>
+</p>
+
+
+<p align="center">
+  <a>
+    <img src="https://www.freepik.com/free-vector/app-development-banner_5467426.htm#page=2&query=app&position=2">
+  </a>
+</p>
+
+
+
 
 
