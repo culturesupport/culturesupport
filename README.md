@@ -10,6 +10,27 @@
   </a>
 </p>
 
+
+<p align="center">
+  <a>
+    <img src="https://i.pinimg.com/originals/6b/96/95/6b96951730753711a2d497193021659f.png">
+  </a>
+</p>
+
+
+
+<p align="center">
+  <a>
+    <img src="https://www.w3schools.in/wp-content/uploads/2016/06/SOA.jpg">
+  </a>
+</p>
+
+
+
+
+
+
+
 <p align="center">
   <a>
     <img src="https://d3e3a9wpte0df0.cloudfront.net/wp-content/uploads/2021/03/soa-architecture_info-5.jpg">
