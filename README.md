@@ -1,4 +1,37 @@
-# Our Repository : Prospects Of Building : The Task Mission Plan in Regular Service Missions
+# Our Repository :
+
+<h2> Application Process : App Building & Evalution Expantions </h2>
+
+<h4> We Use Our Research Teqhnique : SOA  ( Service Oriented Architecture ) </h4>
+
+<p align="center">
+  <a>
+    <img src="https://batishtechnologies.com/wp-content/uploads/2015/04/service_oriented_architecture.jpg">
+  </a>
+</p>
+
+<p align="center">
+  <a>
+    <img src="https://www.xenonstack.com/images/insights/2020/01/service-oriented-architecture-xenonstack.png">
+  </a>
+</p>
+
+
+<h4> SOA  ( Service Oriented Architecture )  :  </h4>
+
+- Standard For Making & Analysis A Needed Process With Together With A Consultant
+- Evaluation Of Goals & Targets Together With A Costumer
+- For This Demand Of Task : Its For Evaluations Of Apps / Web Apps / Business Needs Paths Of Needs 
+- But SOA Can Be Managed & Obtained in Scenarious You Imagine Its Fits A Service Schedule. 
+- Remember Quality Experience & Psychologial Understanding is Nesserary Regarding Using Tool in Advancement
+- Bether Explenation Compiles , A Longer Relations
+- Fast Understanding Of Feature : Saves Time To Evaluate Order Process
+- Easier Selective Wanted Priority : Leads To Process Continues To Deliver
+- More Effectively A Business Path Alligning Strategy : 
+- Bether Options Rewokings When Business Partner Uses Tools
+
+
+- Be Gentle : Use Standard Consulting Evaluation : SOA 
 
 
 About :
