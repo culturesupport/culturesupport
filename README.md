@@ -56,7 +56,7 @@ About :
 
 <p align="center">
   <a>
-    <img src="https://blog.corp-site.envato.com/cdn-cgi/image/width=1200,quality=95,format=auto/uploads/2020/06/SOC093-Top-10-UI-Templates-for-Figma-XD-2020.png">
+    <img src="https://i.pinimg.com/originals/f1/fc/ce/f1fcceaca4d645fea0c42428fc7f00fa.png">
   </a>
 </p>
 
@@ -66,6 +66,19 @@ About :
     <img src="https://designshack.net/wp-content/uploads/Online-Courses-App-UI-Adobe-XD-Templates.jpg">
   </a>
 </p>
+
+
+<h3> Website Video Promotion About App : Angle & Functionality Preview</h3>
+
+
+
+<p align="center">
+  <a>
+    <img src="https://cdn.designrush.com/uploads/users/customer-2/image_1519926513_j5h2pfqgwDF7w4772EOFnLH3HrVhggA3rWbhvLhc.gif">
+  </a>
+</p>
+
+
 
 
 
