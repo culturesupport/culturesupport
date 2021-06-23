@@ -38,21 +38,24 @@ About :
 
 <p align="center">
   <a>
-    <img src="https://www.freepik.com/free-vector/crowdfunding-app-mobile-phone-interface_9452175.htm#page=2&query=app&position=23">
+    <img src="https://codersera.com/blog/wp-content/uploads/2019/10/Sketch-Adobe-XD.png">
   </a>
 </p>
 
 
 <p align="center">
   <a>
-    <img src="https://www.freepik.com/free-icon/xd_14839454.htm">
+    <img src="https://cdn.educba.com/academy/wp-content/uploads/2019/01/Adobe-XD-vs-Sketch1.jpg">
   </a>
 </p>
 
 
+<h3> Adobe Xd : Figma : Scetch</h3>
+
+
 <p align="center">
   <a>
-    <img src="https://www.freepik.com/free-vector/app-development-banner_5467426.htm#page=2&query=app&position=2">
+    <img src="https://miro.medium.com/max/800/1*FSpnZBqwcCzq2gIh13xU1g.png">
   </a>
 </p>
 
