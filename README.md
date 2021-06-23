@@ -38,7 +38,7 @@ About :
 
 <p align="center">
   <a>
-    <img src="https://www.freepik.com/free-vector/online-cosmetics-mobile-app-page-onboard-screen-template_15129059.htm#page=2&query=app&position=10">
+    <img src="https://www.freepik.com/free-vector/crowdfunding-app-mobile-phone-interface_9452175.htm#page=2&query=app&position=23">
   </a>
 </p>
 
