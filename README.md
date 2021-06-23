@@ -24,9 +24,9 @@ About :
 
 
 
-<h1> Goal </h1>
+<h1> Goal : Good Aspect Design </h1>
 
-
+<h1> Find Paths Learning Optimization Roadmap </h1>
 
 <p align="center">
   <a>
