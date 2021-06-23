@@ -1,6 +1,6 @@
 # Our Repository :
 
-<h2> Application Process : App Building & Evalution Expantions </h2>
+<h2> Application Process : App Building & Evalution Expansions </h2>
 
 <h4> We Use Our Research Teqhnique : SOA  ( Service Oriented Architecture ) </h4>
 
