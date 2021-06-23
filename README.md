@@ -81,6 +81,28 @@ About :
 
 
 
+<h3> Paths Of items List : Easy Menu Options : Logic Paths & Easy Combo Structure </h3>
+
+
+
+<p align="center">
+  <a>
+    <img src="https://cdn.dribbble.com/users/1954038/screenshots/5584600/phone-animation.gif">
+  </a>
+</p>
+
+
+
+
+<h3> Paths To Register Autonomus Economy Budgets : Include Methods To Little Save Controll By User </h3>
+
+
+
+<p align="center">
+  <a>
+    <img src="https://cdn.dribbble.com/users/2200532/screenshots/11949103/media/fe4a9e5932e441a24e2bc65f67531db0.gif">
+  </a>
+</p>
 
 
 
