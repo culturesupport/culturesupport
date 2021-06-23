@@ -37,8 +37,9 @@ About :
 
 
 
-<h3> Adobe Xd : Figma : Scetch</h3>
+<h3> Adobe Xd : Figma : Sketch</h3>
 
+<h3> Developer Tools For Apps / WebSite </h3>
 
 <p align="center">
   <a>
