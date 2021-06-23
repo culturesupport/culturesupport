@@ -175,3 +175,15 @@ About :
 
 
 
+<h3> Desire Device Mockups : Allign Applications  : Any Device Screen Fitting  </h3>
+
+
+
+<p align="center">
+  <a>
+    <img src="https://blogs.mulesoft.com/wp-content/uploads/api-connect-devices.png">
+  </a>
+</p>
+
+
+
