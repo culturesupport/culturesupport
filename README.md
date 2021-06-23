@@ -36,19 +36,6 @@ About :
 
 
 
-<p align="center">
-  <a>
-    <img src="https://codersera.com/blog/wp-content/uploads/2019/10/Sketch-Adobe-XD.png">
-  </a>
-</p>
-
-
-<p align="center">
-  <a>
-    <img src="https://cdn.educba.com/academy/wp-content/uploads/2019/01/Adobe-XD-vs-Sketch1.jpg">
-  </a>
-</p>
-
 
 <h3> Adobe Xd : Figma : Scetch</h3>
 
@@ -58,6 +45,28 @@ About :
     <img src="https://miro.medium.com/max/800/1*FSpnZBqwcCzq2gIh13xU1g.png">
   </a>
 </p>
+
+
+
+
+<h3> Designer Tools : Select Usual Template Quality </h3>
+
+
+
+<p align="center">
+  <a>
+    <img src="https://blog.corp-site.envato.com/cdn-cgi/image/width=1200,quality=95,format=auto/uploads/2020/06/SOC093-Top-10-UI-Templates-for-Figma-XD-2020.png">
+  </a>
+</p>
+
+
+<p align="center">
+  <a>
+    <img src="https://designshack.net/wp-content/uploads/Online-Courses-App-UI-Adobe-XD-Templates.jpg">
+  </a>
+</p>
+
+
 
 
 
