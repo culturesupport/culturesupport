@@ -12,7 +12,7 @@
 
 <p align="center">
   <a>
-    <img src="https://www.xenonstack.com/images/insights/2020/01/service-oriented-architecture-xenonstack.png">
+    <img src="https://d3e3a9wpte0df0.cloudfront.net/wp-content/uploads/2021/03/soa-architecture_info-5.jpg">
   </a>
 </p>
 
