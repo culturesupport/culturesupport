@@ -126,7 +126,7 @@ use custom documentation for package
 
 
 ```
-
+# index.html
 ```
 
 <!DOCTYPE html>
@@ -138,9 +138,104 @@ use custom documentation for package
   <script src='https://cdn.jsdelivr.net/npm/jquery@3.2.1/dist/jquery.min.js'></script>
 </head>
 <style>
+#header {
+  background-color: lightblue;
+  height: ;
+  width: ;
+  padding: ;
+  top: ;
+  bottom: ; 
+  margin: ;
+  
+}
+
+body {
+  background-color: lightblue;
+  height: ;
+  width: ;
+  padding: ;
+  top: ;
+  bottom: ; 
+  margin: ;
+}
+
+
+#button {
+  background-color: orange;
+  height: ;
+  width: ;
+  padding: ;
+  top: ;
+  bottom: ; 
+  margin: ;
+  
+}
+
+
+
+#example {
+  border: 2px solid red;
+  padding: 10px;
+  border-radius: 50px 20px;
+  height: ;
+  width: ;
+  padding: ;
+  margin: ;
+  top: ;
+  bottom: ; 
+  
+}
+
+#footer {
+  background-color: lightblue;
+  height: ;
+  width: ;
+  padding: ;
+  top: ;
+  bottom: ; 
+  
+}
+
+
+#animation {
+  width: 100px;
+  height: 100px;
+  background-color: red;
+  animation-name: example;
+  animation-duration: 4s;
+}
+
+@keyframes example {
+  from {background-color: red;}
+  to {background-color: yellow;}
+}
 
 </style>
 <body>
+
+<div id="header">
+  <p> text header css style </p>
+</div>
+
+
+<div id="example">
+  <p> text  example css style </p>
+</div>
+
+
+
+<div id="animation">
+  <p> text header css style </p>
+</div>
+
+
+<button>  <div id="button">
+  <p> text button css style </p>
+</div>
+     </button>
+
+
+
 
 <p id="demo"></p>
 
@@ -151,6 +246,11 @@ document.getElementById("demo").innerHTML =
 
 
 <script  src="js/index.js"></script>
+
+<div id="footer">
+  <p> text footer css style </p>
+</div>
+
 
 </body>
 </html>
