@@ -72,6 +72,7 @@ ________________
 
 
 
+
 # 💬 Web Server Security : .htaccess 
 
 ```
@@ -85,3 +86,73 @@ ________________
 - various security coding
 
 ```
+
+
+
+
+
+# 💬 Learning Story : Effective Website Learning 
+
+```
+ How To Build Websites : Html , Css , Js , Php
+
+- https://www.w3schools.com/
+
+- Easy Setups To Understand Coding 
+
+- https://www.codepen.io/
+
+- Download pen & install dist folder inside codepen project on local web server 
+
+
+---------------------------------------------
+
+Build Using CDN Libraries :  Link CDN into Html , Make Custom CDN Library Codes : 
+
+ 
+<head>
+<script src="jquery-3.5.1.min.js"></script>
+</head>
+
+
+
+- https://cdnjs.com/
+
+- https://www.jsdelivr.com/
+
+---------------------------------------------
+
+
+
+```
+
+```
+<!DOCTYPE html>
+<html>
+<head>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+<script>
+$(document).ready(function(){
+  $("button").click(function(){
+    $("p").hide();
+  });
+});
+</script>
+</head>
+<body>
+
+<h2>This is a heading</h2>
+
+<p>This is a paragraph.</p>
+<p>This is another paragraph.</p>
+
+<button>Click me</button>
+
+</body>
+</html>
+
+```
+
+
+
+
