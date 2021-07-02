@@ -134,7 +134,7 @@ use custom documentation for package
 <head>
   <meta charset="UTF-8">
   <title>Name</title>
-  <link rel="stylesheet" href="css/style.css">
+  <link rel="stylesheet" href="style.css">
   <script src='https://cdn.jsdelivr.net/npm/jquery@3.2.1/dist/jquery.min.js'></script>
 </head>
 <style>
