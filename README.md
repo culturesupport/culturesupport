@@ -72,7 +72,7 @@ ________________
 
 
 
-# 💬 Web Server Security : .htaccess : 
+# 💬 Web Server Security : .htaccess 
 
 ```
 .htaccess
