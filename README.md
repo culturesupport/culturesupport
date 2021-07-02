@@ -209,7 +209,9 @@ body {
   
 }
 
-
+a {
+  color: black;
+}
 
 
 #example {
@@ -269,7 +271,7 @@ body {
 
 
  <div id="buttonlink">
-  <p> text button css style </p>
+<p><b><a href="default.asp" target="_blank">This is a link</a></b></p>
 </div>
    
 
