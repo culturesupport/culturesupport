@@ -114,7 +114,8 @@ Build Using CDN Libraries :  Link CDN into Html , Make Custom CDN Library Codes 
 <script src="jquery-3.5.1.min.js"></script>
 </head>
 
-
+use a custom cdn package
+use custom documentation for package
 
 - https://cdnjs.com/
 
@@ -127,26 +128,29 @@ Build Using CDN Libraries :  Link CDN into Html , Make Custom CDN Library Codes 
 ```
 
 ```
+
 <!DOCTYPE html>
 <html>
 <head>
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
-<script>
-$(document).ready(function(){
-  $("button").click(function(){
-    $("p").hide();
-  });
-});
-</script>
+  <meta charset="UTF-8">
+  <title>Name</title>
+  <link rel="stylesheet" href="css/style.css">
+  <script src='https://cdn.jsdelivr.net/npm/jquery@3.2.1/dist/jquery.min.js'></script>
 </head>
+<style>
+
+</style>
 <body>
 
-<h2>This is a heading</h2>
+<p id="demo"></p>
 
-<p>This is a paragraph.</p>
-<p>This is another paragraph.</p>
+<script>
+document.getElementById("demo").innerHTML =
+"Hello Dolly.";
+</script>
 
-<button>Click me</button>
+
+<script  src="js/index.js"></script>
 
 </body>
 </html>
