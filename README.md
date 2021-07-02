@@ -101,10 +101,37 @@ ________________
 - controll https routing
 - various security coding
 
+---------------------------------------
+
+- some server providers : makes & provides password setup instructions 
+- specific method for htaccess and htpassword and security admin
 
 
-- some server providers : makes & provides password setup instructions and specific method for htaccess and htpassword and security admin
 ```
+
+
+# 💬 Web Server Security 3 : Ssh / Putty Tunnel Remote Server
+
+```
+ssh / putty remote server administration 
+- secure 
+ - tunnel / remote controll server
+ - entire controll server remote 
+ ----------------------------------------
+ - restart server 
+ - change files 
+ - set administration demands 
+ - send packets deployments secret to server
+ - remote install server commands
+---------------------------------------
+
+- some server providers : makes & provides ssh tunnel instructions 
+- specific method for SSH Tunnel Remote Access (Web Server) 
+
+
+```
+
+
 
 
 
