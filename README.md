@@ -69,3 +69,19 @@ ________________
 - Sass
 - Less 
 ```
+
+
+
+# 💬 Web Server Security : .htaccess : 
+
+```
+.htaccess
+
+- web routing https
+- refresh
+- automation 
+- admin password 
+- controlling name of file.html  index name 
+- various security coding
+
+```
