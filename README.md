@@ -73,7 +73,7 @@ ________________
 
 
 
-# 💬 Web Server Security : .htaccess 
+# 💬 Web Server Security 1 : .htaccess 
 
 ```
 .htaccess
@@ -87,6 +87,24 @@ ________________
 
 ```
 
+
+
+# 💬 Web Server Security 2 : .htpassword
+
+```
+.htaccess
+.htpassword
+
+- Create Htaccess Security Password
+- settle user : admin / password 
+- settle rewrite rules
+- controll https routing
+- various security coding
+
+
+
+- some server providers : makes & provides password setup instructions and specific method for htaccess and htpassword and security admin
+```
 
 
 
