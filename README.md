@@ -38,6 +38,14 @@ Sometimes We Need To Wait On Green Light if Not Ready
 - 🔴
 - 🟠
 - 🟢
+
+
+
+Sometimes Solving it Self Makes Infinity  ♾️
+
+
+- Click & Eat Cookies 🍪
+- Colors is Greatest Items Of CombiNations 🎨
 ```
 
 
