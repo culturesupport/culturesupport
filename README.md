@@ -24,7 +24,13 @@ ________________
 - 💼 Brief Case & Opportunity
 - 👨‍💻 Man Are Technologist 
 - 👩‍💻 Women Are Technologist 
+- 🐱‍💻 Cats Are Hackers 
+- 👦💻 Boy Are Student Hackers 
+- 👧 Girl Are Bloggers
+- 🎬 Movies Making Film ⭐ Stars � 
+- 📁 Full / Half Full / Little / Less Code in File Folder
 - ✔️ Check The Science 
+- 🥼 Science Test if You Can Handle Change The Standards & Break Rules
 ______________________________
 
 Sometimes We Need To Wait On Green Light if Not Ready
