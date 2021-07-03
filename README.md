@@ -45,7 +45,7 @@ Sometimes Solving it Self Makes Infinity  ♾️
 
 
 - Click & Eat Cookies 🍪
-- Colors is Greatest Items Of CombiNations 🎨
+- Colors is Greatest Items Of Natures CombiNations 🎨
 ```
 
 
