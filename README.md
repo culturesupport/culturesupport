@@ -11,6 +11,26 @@ ________________
 - ⭐ We Use For Reach Science Demands For Future User Scenarios
 ```
 
+
+# 💬 Things We Know : 
+________________
+
+
+```
+- ⭐ Control User Effectiveness
+- ⭐ Trends
+- ⭐ Your Engaged In Spying On Us , Once in A While 
+- ⭐ Research Triggers & 2 % Facts Out Of Nowhere
+- ⭐ The 3rd Eye is Active
+- ⭐ Use Meditation & Select Wisely Developer Habits 
+
+
+```
+
+
+
+
+
 # 💬 Web Site Testing Tools We Use : 
 
 ```
