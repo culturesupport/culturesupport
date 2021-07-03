@@ -17,14 +17,21 @@ ________________
 
 
 ```
-- ⭐ Control User Effectiveness
-- ⭐ Trends
-- ⭐ Your Engaged In Spying On Us , Once in A While 
-- ⭐ Research Triggers & 2 % Facts Out Of Nowhere
-- ⭐ The 3rd Eye is Active
-- ⭐ Use Meditation & Select Wisely Developer Habits 
+- ⭐ Star Repository 
+- 🍴 Fork Repository
+- 🔖 Make A Bookmark
+- 📖 Read & Learn Documentation
+- 💼 Brief Case & Opportunity
+- 👨‍💻 Man Are Technologist 
+- 👩‍💻 Women Are Technologist 
+- ✔️ Check The Science 
+______________________________
 
+Sometimes We Need To Wait On Green Light if Not Ready
 
+- 🔴
+- 🟠
+- 🟢
 ```
 
 
