@@ -20,12 +20,7 @@ ________________
 - 🔖 Make A Bookmark
 - 📖 Read & Learn Documentation
 - 💼 Brief Case & Opportunity
-- 👨‍💻 Man Are Technologist 
-- 👩‍💻 Women Are Technologist 
-- 🐱‍💻 Cats Are Hackers 
-- 👦💻 Boy Are Student Hackers 
-- 👧 Girl Are Bloggers
-- 🎬 Movies Making Film ⭐ Stars � 
+
 - 📁 Full / Half Full / Little / Less Code in File Folder
 ______________________________
 
@@ -50,3 +45,19 @@ ______________________________
 - 📁 Open a Pull Request
 ```
 
+
+
+# 💬 Other Unreal Stuff : 
+________________
+
+```
+
+
+- 👨‍💻 Man Are Technologist 
+- 👩‍💻 Women Are Technologist 
+- 🐱‍💻 Cats Are Hackers 
+- 👦💻 Boy Are Student Hackers 
+- 👧 Girl Are Bloggers
+- 🎬 Movies Making Film ⭐ Stars � 
+
+```
