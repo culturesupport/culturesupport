@@ -1,4 +1,4 @@
-# Mind Your Crimes Away From Us
+# You Are Soon Dead Because Of Some Reasons :)
 
 - You Are Dead Because You Hating
 - You Are Dead Because Of Positive 
