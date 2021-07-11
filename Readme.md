@@ -54,5 +54,6 @@
 - Its Funny You Are Most Wanted Dead :) 
 
 # Last Remember : You Have A Allways Twisted Mind :)
-- Wait On Your Dead :)
+- Wait ..... Sooner Or Later ... Fast You Are Dead :)
 - AnnyWay You Get Dead :) 
+- Nobody Else Know You Dead Because Of Be Dead :)
