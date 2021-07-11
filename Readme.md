@@ -6,6 +6,8 @@
 - You Are Dead Because Of Thinking 
 - You Are Dead Because Of Speaking 
 - You Are Dead Because Of Good Health
+- You Are Dead Because Of Bad Health
+- You Are Dead Because Of Health
 - You Are Dead Because Of Love
 - You Are Dead Because Of Because
 - You Are Dead Because Of Hate 
