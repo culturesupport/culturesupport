@@ -27,7 +27,32 @@
 - You Are Dead Because Of Awaken Mind
 - You Are Dead Because Of Psychology
 - You Are Dead Because Of Problems
+- You Are Dead Because Of Regret
+- You Are Dead Because Of Help
+- You Are Dead Because Of Curse
+- You Are Dead Because Of Good
+- You Are Dead Because Of Evil 
+- You Are Dead Because Of Politics 
+- You Are Dead Because Of Error
+- You Are Dead Because Of Wrong
+- You Are Dead Because Of Right 
+- You Are Dead Because Of Humor 
+- You Are Dead Because Of Time 
+- You Are Dead Because Of Crashing 
+- You Are Dead Because Of Hurry 
+- You Are Dead Because Of Slow 
+- You Are Dead Because Of Sex
+- You Are Dead Because Of Nothing 
+- You Are Dead Because Of Winning 
+- You Are Dead Because Of Loosing
+- You Are Dead Because Of Terror 
+- You Are Dead Because Of Doing 
+- You Are Dead Because Of Dead
+- You Going Be Positive Dead Fast :) 
+- Its Positive You Are Dead Soon :) 
+- Its Cool You Are Soon Dead :) 
+- Its Funny You Are Most Wanted Dead :) 
 
-
-
-- Last Remember : You Have A Allways Twisted Mind.
+# Last Remember : You Have A Allways Twisted Mind :)
+- Wait On Your Dead :)
+- AnnyWay You Get Dead :) 
