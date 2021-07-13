@@ -1,16 +1,26 @@
-# Experience Psychotic Madness Flows Hidden
+# Try Become Strong 
 
-# A impact of A Psychotic Dream 
+- All You End Up in is inside A Disaster Science
+- You Never Become : 
 
-# A Destroyed Human By Other Humans
+# Destruction Paralyzing Ending You Soon Dies 
 
-# The Paralyzing Effects Of Disaster
 
-# The Crimes Of Sending Human in Terror
-
-# The Crime Of Destroying Humans
+- Experience Psychotic Madness Flows Hidden
+- A impact of A Psychotic Dream 
+- A Destroyed Human By Other Humans
+- The Paralyzing Effects Of Disaster
+- The Crimes Of Sending Human in Terror
+- The Crime Of Destroying Humans
 
 # The Insanity Destroyed Perhaps
+
+- intelligence is never intelligence
+- intelligence is wrapped up in words
+- intelligence cant repair
+- intelligence is never proven exist
+
+# Remember :
 
 - Super Psychotic Destroyed Humans
 - I’m Currently Learning im Destroyed
