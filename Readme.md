@@ -23,8 +23,6 @@
 <img src="https://i.ytimg.com/vi/VDz5WhDQtWU/maxresdefault.jpg" /> | `Help Design With Design Software`
 
 
-<img src="https://i.ytimg.com/vi/tVWHN4y0f5A/hqdefault.jpg" /> | `Help Design`
-
 
 
 
@@ -35,10 +33,6 @@
 <img src="https://i.pinimg.com/736x/02/36/5f/02365f5fbd7641bd3b274ec2f3d88459.jpg" /> | `Help Design & Live Like This`
 
 
-
-
-
-<img src="https://images.adsttc.com/media/images/5348/c44d/c07a/80f3/5100/006b/medium_jpg/0123.247Arquitetura.CasaGuaiume-MK3_6758.jpg?1397277735" /> | `Design Pretty Good Looking`
 
 
 
