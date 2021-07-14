@@ -48,7 +48,7 @@
 
 
 
-<img src="https://luxury-houses.net/wp-content/uploads/2019/09/Melbourne-Modern-masterpiece-1.jpg" /> | `Help Design`
+<img src="https://www.homestratosphere.com/wp-content/uploads/2017/07/Canny_Hawthorn-2-july292019-min.jpg" /> | `Help Design`
 
 
 <img src="https://i.pinimg.com/originals/19/0a/40/190a409b99d35e1d7ac35cffef011bc4.jpg" /> | `Help Design & Live Like This`
