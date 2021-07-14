@@ -13,13 +13,17 @@
 
 <img src="https://img.shields.io/badge/Culture-Support-green" /> | `Become Smart`
 
+<img src="https://img.shields.io/badge/Culture-Support-green" /> | `Become Design`
+
+<img src="https://img.shields.io/badge/Culture-Support-green" /> | `Become Doing`
+
+<img src="https://img.shields.io/badge/Culture-Support-green" /> | `Become Epoke`
+
 <img src="https://img.shields.io/badge/Culture-Support-green" /> | `Become Hope`
 
 <img src="https://img.shields.io/badge/Culture-Support-green" /> | `Become Friends`
 
 <img src="https://img.shields.io/badge/Culture-Support-green" /> | `Become Life`
-
-<img src="https://img.shields.io/badge/Culture-Support-green" /> | `Become End`
 
 <img src="https://img.shields.io/badge/Culture-Support-green" /> | `Become Future`
 
@@ -35,7 +39,27 @@
 
 <img src="https://img.shields.io/badge/Culture-Support-green" /> | `Become Knowing`
 
-## Menu
+<img src="https://img.shields.io/badge/Culture-Support-green" /> | `Become Done`
+
+<img src="https://img.shields.io/badge/Culture-Support-green" /> | `Become End`
+
+<img src="https://img.shields.io/badge/Culture-Support-green" /> | `Become Never Ending`
+
+<img src="https://img.shields.io/badge/Culture-Support-green" /> | `Sofistic`
+
+<img src="https://img.shields.io/badge/Culture-Support-green" /> | `Become Personal`
+
+<img src="https://img.shields.io/badge/Culture-Support-green" /> | `Become Open`
+
+<img src="https://img.shields.io/badge/Culture-Support-green" /> | `Become Beliefs`
+
+<img src="https://img.shields.io/badge/Culture-Support-green" /> | `Become Communication`
+
+<img src="https://img.shields.io/badge/Culture-Support-green" /> | `Become Wonder`
+
+<img src="https://img.shields.io/badge/Culture-Support-green" /> | `Become Time`
+
+
   - [📱 Contact](#-contact-)
   - [🤜🤛 Group](#-group-)
   - [👨👩 Social](#-social-)
