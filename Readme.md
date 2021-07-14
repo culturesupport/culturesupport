@@ -70,7 +70,7 @@
 
 <img src="https://img.shields.io/badge/Culture-Support-green" /> | `Become Never Ending`
 
-<img src="https://img.shields.io/badge/Culture-Support-green" /> | `Sofistic`
+<img src="https://img.shields.io/badge/Culture-Support-green" /> | `Become Sofistic`
 
 <img src="https://img.shields.io/badge/Culture-Support-green" /> | `Become Personal`
 
@@ -85,6 +85,32 @@
 <img src="https://img.shields.io/badge/Culture-Support-green" /> | `Become Time`
 
 <img src="https://img.shields.io/badge/Culture-Support-green" /> | `Become Help`
+
+
+<img src="https://img.shields.io/badge/Culture-Support-green" /> | `Become Sleep`
+
+<img src="https://img.shields.io/badge/Culture-Support-green" /> | `Become Eating`
+
+
+<img src="https://img.shields.io/badge/Culture-Support-green" /> | `Become Relax`
+
+<img src="https://img.shields.io/badge/Culture-Support-green" /> | `Become Rule`
+
+
+<img src="https://img.shields.io/badge/Culture-Support-green" /> | `Become Free`
+
+<img src="https://img.shields.io/badge/Culture-Support-green" /> | `Become Personality`
+
+
+<img src="https://img.shields.io/badge/Culture-Support-green" /> | `Become Growing`
+
+<img src="https://img.shields.io/badge/Culture-Support-green" /> | `Become Found`
+
+
+<img src="https://img.shields.io/badge/Culture-Support-green" /> | `Become Search`
+
+<img src="https://img.shields.io/badge/Culture-Support-green" /> | `Become Part`
+
 
   - [📱 Contact](#-contact-)
   - [🤜🤛 Group](#-group-)
