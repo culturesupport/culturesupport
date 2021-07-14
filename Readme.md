@@ -1,4 +1,4 @@
-# Help People Living Like This : 
+# Help People | Change | Dont Living Like This : 
 
 <img src="https://media.istockphoto.com/photos/demolition-tear-down-a-house-picture-id956161442?k=6&m=956161442&s=612x612&w=0&h=VGz54EUvNhDyp3fhSEQ2xtrUQlRI9REm7QVia5BOSBk=" /> | `Help`
 
@@ -13,7 +13,7 @@
 <img src="https://cdna.artstation.com/p/marketplace/presentation_assets/000/008/690/large/building-debris-3d-model-max-obj-fbx-mtl-abc.jpg?1534895769" /> | `Help Us`
 
 
-
+# Help People | Change | Living Like This : 
 
 <img src="https://www.arch2o.com/wp-content/uploads/2017/02/Arch2O-need-a-free-architecture-designing-app-check-our-list.jpg" /> | `Help Design`
 
