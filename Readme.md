@@ -1,4 +1,4 @@
-# Try Become Strong 
+# Try Become 
 <img src="https://img.shields.io/badge/Culture-Support-green" /> | `Become You`
 
 <img src="https://img.shields.io/badge/Culture-Support-green" /> | `Become Bether`
