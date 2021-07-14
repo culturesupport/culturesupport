@@ -21,9 +21,6 @@
 
 
 
-<img src="https://cdna.artstation.com/p/marketplace/presentation_assets/000/008/690/large/building-debris-3d-model-max-obj-fbx-mtl-abc.jpg?1534895769" /> | `Help Us`
-
-
 <img src="https://images.adsttc.com/media/images/5348/c44d/c07a/80f3/5100/006b/medium_jpg/0123.247Arquitetura.CasaGuaiume-MK3_6758.jpg?1397277735" /> | `Design Pretty Good Looking`
 
 
