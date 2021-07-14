@@ -15,7 +15,24 @@
 
 # Help People | Change | Living Like This : 
 
+
+
+<img src="https://cdn.akamai.steamstatic.com/steam/apps/420000/ss_18ae9cc55ae2be9018c206e7311dc4c0942825fd.1920x1080.jpg?t=1624896938" /> | `Help Design`
+
+
+<img src="https://i.ytimg.com/vi/VDz5WhDQtWU/maxresdefault.jpg" /> | `Help Design With Design Software`
+
+
 <img src="https://i.ytimg.com/vi/tVWHN4y0f5A/hqdefault.jpg" /> | `Help Design`
+
+
+
+
+
+<img src="https://i.ytimg.com/vi/tVWHN4y0f5A/hqdefault.jpg" /> | `Help Design`
+
+
+<img src="https://i.pinimg.com/736x/02/36/5f/02365f5fbd7641bd3b274ec2f3d88459.jpg" /> | `Help Design & Live Like This`
 
 
 
