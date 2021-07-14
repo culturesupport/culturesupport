@@ -1,12 +1,12 @@
 # Help People | Change | Dont Living Like This : 
 
-<img src="https://media.istockphoto.com/photos/demolition-tear-down-a-house-picture-id956161442?k=6&m=956161442&s=612x612&w=0&h=VGz54EUvNhDyp3fhSEQ2xtrUQlRI9REm7QVia5BOSBk=" /> | `Help`
+<img src="https://media.istockphoto.com/photos/demolition-tear-down-a-house-picture-id956161442?k=6&m=956161442&s=612x612&w=0&h=VGz54EUvNhDyp3fhSEQ2xtrUQlRI9REm7QVia5BOSBk=" /> | `Help Change Design to Pretty`
 
 
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeKmqqtsrkylO-5fBIm7vzJiYYpp4AuP-h3tx8NX4axLtnS4EnsZt0Ls7maSufej23lyQ&usqp=CAU" /> | `Help`
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeKmqqtsrkylO-5fBIm7vzJiYYpp4AuP-h3tx8NX4axLtnS4EnsZt0Ls7maSufej23lyQ&usqp=CAU" /> | `Help Fix Change To Beauty Design`
 
 
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_zZUlzfDh60KpTEuc8BHoZ9JnyHu3NxL7xQ&usqp=CAU" /> | `Help Us`
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_zZUlzfDh60KpTEuc8BHoZ9JnyHu3NxL7xQ&usqp=CAU" /> | `Help Us Change`
 
 
 
