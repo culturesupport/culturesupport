@@ -1,5 +1,5 @@
 # Try Become Strong 
-<img src="https://img.shields.io/badge/Culture-Support-green" /> | `https://img.shields.io/badge/Culture-Support-green`
+<img src="https://img.shields.io/badge/Culture-Support-green" /> | `Become Strong`
 - All You End Up in is inside A Disaster Science
 - You Never Become : 
 
