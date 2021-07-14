@@ -111,6 +111,28 @@
 
 <img src="https://img.shields.io/badge/Culture-Support-green" /> | `Become Part`
 
+<img src="https://img.shields.io/badge/Culture-Support-green" /> | `Become Positive`
+
+<img src="https://img.shields.io/badge/Culture-Support-green" /> | `Become Love`
+
+<img src="https://img.shields.io/badge/Culture-Support-green" /> | `Become Search`
+
+<img src="https://img.shields.io/badge/Culture-Support-green" /> | `Become Integration`
+
+
+<img src="https://img.shields.io/badge/Culture-Support-green" /> | `Become Honor`
+
+<img src="https://img.shields.io/badge/Culture-Support-green" /> | `Become Trusted`
+
+<img src="https://img.shields.io/badge/Culture-Support-green" /> | `Become Inspiration`
+
+<img src="https://img.shields.io/badge/Culture-Support-green" /> | `Become Motivation`
+
+<img src="https://img.shields.io/badge/Culture-Support-green" /> | `Become Healed`
+
+<img src="https://img.shields.io/badge/Culture-Support-green" /> | `Become Soul`
+
+
 
   - [📱 Contact](#-contact-)
   - [🤜🤛 Group](#-group-)
