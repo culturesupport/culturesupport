@@ -11,18 +11,29 @@
 
 
 
-<img src="https://img.shields.io/badge/Culture-Support-green" /> | `Become Science`
+<img src="https://img.shields.io/badge/Culture-Support-green" /> | `Become Smart`
 
-<img src="https://img.shields.io/badge/Culture-Support-green" /> | `Become Perfect`
+<img src="https://img.shields.io/badge/Culture-Support-green" /> | `Become Hope`
 
-<img src="https://img.shields.io/badge/Culture-Support-green" /> | `Become Attractive`
+<img src="https://img.shields.io/badge/Culture-Support-green" /> | `Become Friends`
 
-<img src="https://img.shields.io/badge/Culture-Support-green" /> | `Become Result`
+<img src="https://img.shields.io/badge/Culture-Support-green" /> | `Become Life`
 
-<img src="https://img.shields.io/badge/Culture-Support-green" /> | `Become Philosphy`
+<img src="https://img.shields.io/badge/Culture-Support-green" /> | `Become End`
 
+<img src="https://img.shields.io/badge/Culture-Support-green" /> | `Become Future`
 
+<img src="https://img.shields.io/badge/Culture-Support-green" /> | `Become Past`
 
+<img src="https://img.shields.io/badge/Culture-Support-green" /> | `Become History`
+
+<img src="https://img.shields.io/badge/Culture-Support-green" /> | `Become Mindless`
+
+<img src="https://img.shields.io/badge/Culture-Support-green" /> | `Become Master Mind`
+
+<img src="https://img.shields.io/badge/Culture-Support-green" /> | `Become Known`
+
+<img src="https://img.shields.io/badge/Culture-Support-green" /> | `Become Knowing`
 
 ## Menu
   - [📱 Contact](#-contact-)
