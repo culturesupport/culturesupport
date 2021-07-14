@@ -9,9 +9,34 @@
 
 <img src="https://img.shields.io/badge/Culture-Support-green" /> | `Become Endless`
 
+<img src="https://img.shields.io/badge/Culture-Support-green" /> | `Become Changing`
 
+<img src="https://img.shields.io/badge/Culture-Support-green" /> | `Become Humor`
+
+<img src="https://img.shields.io/badge/Culture-Support-green" /> | `Become Mindfull`
+
+<img src="https://img.shields.io/badge/Culture-Support-green" /> | `Become Evidence`
+
+<img src="https://img.shields.io/badge/Culture-Support-green" /> | `Become Real`
+
+<img src="https://img.shields.io/badge/Culture-Support-green" /> | `Become Crowd`
+
+<img src="https://img.shields.io/badge/Culture-Support-green" /> | `Become Forgiving`
+
+<img src="https://img.shields.io/badge/Culture-Support-green" /> | `Become Respected`
+
+<img src="https://img.shields.io/badge/Culture-Support-green" /> | `Become Art`
+
+<img src="https://img.shields.io/badge/Culture-Support-green" /> | `Become Freedom`
+
+<img src="https://img.shields.io/badge/Culture-Support-green" /> | `Become Skills`
+
+<img src="https://img.shields.io/badge/Culture-Support-green" /> | `Become Creative`
 
 <img src="https://img.shields.io/badge/Culture-Support-green" /> | `Become Smart`
+
+
+
 
 <img src="https://img.shields.io/badge/Culture-Support-green" /> | `Become Design`
 
@@ -59,6 +84,7 @@
 
 <img src="https://img.shields.io/badge/Culture-Support-green" /> | `Become Time`
 
+<img src="https://img.shields.io/badge/Culture-Support-green" /> | `Become Help`
 
   - [📱 Contact](#-contact-)
   - [🤜🤛 Group](#-group-)
